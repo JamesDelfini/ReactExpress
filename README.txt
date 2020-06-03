@@ -1,7 +1,13 @@
 # Initialize the project to create package.json file
+    # Cloned Repository
+        Run this command if not starting from scratch, if not skip continue to # From Scratch
+        > npm install
+        > npm run script client-install
+
+    # From Scratch
     Running the command below will ask the details for the your project
     > npm init
-    
+
     # Installation
         # Express
             Node.js web application framework
