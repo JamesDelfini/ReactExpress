@@ -11,6 +11,15 @@
             Dev dependencies, constantly watch project changes
             > npm i nodemon --save-Dev
         
-        # Scripts
-            # Run the express server only
+        # React
+            Global Installation of React
+            > npm i -g create-react-app
+        
+    # Scripts
+        # Run the express server only
             > npm run-script server
+
+        # Run react application only
+            > cd client/
+            > npm run start
+        
